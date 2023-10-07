@@ -1,0 +1,13 @@
+2023-08-18 16:15:50,297 - main.py - INFO - 执行任务开始...
+2023-08-18 16:15:54,003 - JiraTool.py - WARNING - [SS-78993] comment长度为0，需要添加comment
+2023-08-18 16:15:55,813 - JiraTool.py - INFO - [SS-78993] 已完成添加comment
+2023-08-18 16:15:56,863 - JiraTool.py - WARNING - [SS-78989] comment长度为1，但是Reporter是Admin，需要添加comment
+2023-08-18 16:15:58,640 - JiraTool.py - INFO - [SS-78989] 已完成添加comment
+2023-08-18 16:15:59,741 - JiraTool.py - WARNING - [SS-78988] comment长度为1，但是Reporter是Admin，需要添加comment
+2023-08-18 16:16:01,525 - JiraTool.py - INFO - [SS-78988] 已完成添加comment
+2023-08-18 16:16:02,529 - JiraTool.py - WARNING - [SS-78986] comment长度为1，但是Reporter是Admin，需要添加comment
+2023-08-18 16:16:04,367 - JiraTool.py - INFO - [SS-78986] 已完成添加comment
+2023-08-18 16:16:05,429 - JiraTool.py - INFO - [SS-78965] comment长度大于1，已经回复，不需要添加comment
+2023-08-18 16:16:06,608 - JiraTool.py - INFO - [SS-78801] comment长度大于1，已经回复，不需要添加comment
+2023-08-18 16:16:07,716 - JiraTool.py - INFO - [SS-77027] comment长度大于1，已经回复，不需要添加comment
+2023-08-18 16:16:07,716 - main.py - INFO - 执行任务结束...

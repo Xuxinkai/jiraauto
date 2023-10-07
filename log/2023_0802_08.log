@@ -1,0 +1,11 @@
+2023-08-02 08:56:57,884 - main.py - INFO - 执行任务开始...
+2023-08-02 08:57:02,736 - JiraTool.py - WARNING - [SS-76437] comment长度为1，但是Reporter是Admin，需要添加comment
+2023-08-02 08:57:02,736 - JiraTool.py - INFO - [SS-76437] 已完成添加comment
+2023-08-02 08:57:03,726 - JiraTool.py - INFO - [SS-76431] comment作者是[Xu Xinkai]，已经回复，不需要添加comment
+2023-08-02 08:57:04,705 - JiraTool.py - INFO - [SS-76414] comment长度大于1，已经回复，不需要添加comment
+2023-08-02 08:57:05,877 - JiraTool.py - INFO - [SS-76232] comment长度大于1，已经回复，不需要添加comment
+2023-08-02 08:57:06,818 - JiraTool.py - INFO - [SS-76222] comment长度大于1，已经回复，不需要添加comment
+2023-08-02 08:57:07,917 - JiraTool.py - INFO - [SS-76151] comment长度大于1，已经回复，不需要添加comment
+2023-08-02 08:57:08,948 - JiraTool.py - INFO - [SS-76138] comment长度大于1，已经回复，不需要添加comment
+2023-08-02 08:57:10,034 - JiraTool.py - INFO - [SS-75472] comment长度大于1，已经回复，不需要添加comment
+2023-08-02 08:57:10,034 - main.py - INFO - 执行任务结束...
