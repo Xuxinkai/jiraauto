@@ -306,7 +306,7 @@ class JiraTool:
 
 if __name__ == '__main__':
     jiratool = JiraTool(username='xu.xinkai2@iwhalecloud.com',
-                        password='ATATT3xFfGF0ObxKYcUD9R4R7kfSSjILK8H3oIczMatM2c5BPZRxgDnRggDKvuPUnMxxsHRT28ammKCBR2Eg6rjSs1Xpm0lVwFDbyO3pPBS_KHNfNQNfTY3gH0h28WHdUwroeIBrLLQ2sjpi7OM0Bdu2ay0zHTZMROWmhuckgCFdr82bDY1KCkk=3CC37AEF')
+                        password='=3CC37AEF')
 
     issueKeys = list([
 'SS-52465',
