@@ -15,13 +15,13 @@ def send_txt_email(mail_title, mail_content, receiver):
     host_server = 'smtp.163.com'
     host_port = 465
     # sender为发件人的qq号码
-    sender_name = 'xuxinkai9410@163.com'
+    sender_name = ''
     # pwd为qq邮箱的授权码
-    pwd = 'AOLFMRTBAAVSSKNA'
+    pwd = ''
     # 发件人的邮箱
-    sender_mail = 'xuxinkai9410@163.com'
+    sender_mail = ''
     # 收件人邮箱
-    # receiver = 'xu.xinkai2@iwhalecloud.com'
+    # receiver = ''
 
     # 邮件的正文内容
     # mail_content = '你好，这是使用python登录office邮箱发邮件的测试'
@@ -44,4 +44,4 @@ def send_txt_email(mail_title, mail_content, receiver):
 
 
 if __name__ == '__main__':
-    send_txt_email('Jira SLA Notification', 'please check this jira ticket SLA, it will breached in 2 hours', 'xu.xinkai2@iwhalecloud.com')
+    send_txt_email('Jira SLA Notification', 'please check this jira ticket SLA, it will breached in 2 hours', '=')
